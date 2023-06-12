@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38720261377",
+    "project_id": "ekolis-757a1",
+    "storage_bucket": "ekolis-757a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38720261377:android:2a3614bca46d00be3b1f00",
+        "android_client_info": {
+          "package_name": "com.example.ekolis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38720261377-0afbjht9u1i7q8s4ct04aof4l3kgh2rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZNElhuQOxXSUSJBa6cVYLdYCFcNGF4nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38720261377-0afbjht9u1i7q8s4ct04aof4l3kgh2rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
